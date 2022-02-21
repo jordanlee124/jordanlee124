@@ -1,4 +1,4 @@
-👋 Hi, I’m Jee Ho (Jordan) Lee, 20 years old and living in Sydney, Australia.<br />
+👋 Hi, I’m Jee Ho Lee, my prefered name is Jordan, 20 years old and living in Sydney, Australia.<br />
 🎓 I’m currently studying as a 3rd Year student of Software Engineering at UNSW.<br />
 👀 I’m interested in the emergance of blockchain technology and crypto space.<br />
 🌱 I'm always looking to learn new things and to challenge myself by dabbling into the unknown.<br />
